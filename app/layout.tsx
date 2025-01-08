@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-    title: "v0 App",
-    description: "Created with v0",
+    title: "Telegram Bot Connection Test",
+    description: "Telegram Bot Connection Test kit",
 };
 
 export default function RootLayout({
